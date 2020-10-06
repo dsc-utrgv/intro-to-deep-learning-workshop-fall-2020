@@ -1,2 +1,2 @@
-# intro-to-deep-learning-workshop-fall-2020
+# Without The Fluff: Deep Learning
 Learn about Deep Learning and build a multilayer perceptron neural network using PyTorch!
